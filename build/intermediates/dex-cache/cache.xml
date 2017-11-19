@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/media/amien/5c93f088-c3d2-4770-80f8-d6f9c211e02f/home/amien/Documents/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/media/amien/5c93f088-c3d2-4770-80f8-d6f9c211e02f/home/amien/Documents/android projek/ProjectRaspi/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_8fb5bf977d0dd0e890fcabf686162dde08407180.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/1302d292cac3e635379e1f351c19a3419d053932/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/media/amien/5c93f088-c3d2-4770-80f8-d6f9c211e02f/home/amien/Documents/android projek/ProjectRaspi/app/build/intermediates/pre-dexed/debug/classes_03e64c642cc9de9b7e7d156c19a3fd4ff27ba03c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.loopj.android/android-async-http/1.4.9/386a4339ffe52d5d63e80f9bed8d2b1d1a418249/android-async-http-1.4.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="386a4339ffe52d5d63e80f9bed8d2b1d1a418249">
+        <dex dex="/media/amien/5c93f088-c3d2-4770-80f8-d6f9c211e02f/home/amien/Documents/android projek/ProjectRaspi/app/build/intermediates/pre-dexed/debug/android-async-http-1.4.9_6ccc83e6c34ef8c4978ba1841ca074cdcee2621c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/15cba95f43fccd871ae4749e931f10c8c0af9380/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/media/amien/5c93f088-c3d2-4770-80f8-d6f9c211e02f/home/amien/Documents/android projek/ProjectRaspi/app/build/intermediates/pre-dexed/debug/classes_00052a381101a263392d1fe387839390106b69ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/712bf7c6e618a85068611ca236a74741ef150225/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/media/amien/5c93f088-c3d2-4770-80f8-d6f9c211e02f/home/amien/Documents/android projek/ProjectRaspi/app/build/intermediates/pre-dexed/debug/classes_032c98295451b8a9854ad1edc69b5582f35e0feb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/0161951ca80b2f9457592a10fef8b1d45dc23359/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/media/amien/5c93f088-c3d2-4770-80f8-d6f9c211e02f/home/amien/Documents/android projek/ProjectRaspi/app/build/intermediates/pre-dexed/debug/classes_8edacb9bba2e2947ec15ef01deccd7e4803c7197.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.2/43eeae0b9fb087bb3194ba59ab63a38a32fbf3e/retrofit-2.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="043eeae0b9fb087bb3194ba59ab63a38a32fbf3e">
+        <dex dex="/media/amien/5c93f088-c3d2-4770-80f8-d6f9c211e02f/home/amien/Documents/android projek/ProjectRaspi/app/build/intermediates/pre-dexed/debug/retrofit-2.0.2_6df22f83fd14d4a99c7449be775dc82bb87a021e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/dcc65d746b49d37090f87df1d2b80e87e515c392/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/media/amien/5c93f088-c3d2-4770-80f8-d6f9c211e02f/home/amien/Documents/android projek/ProjectRaspi/app/build/intermediates/pre-dexed/debug/classes_e4a97f9e7bef54c9cf4a61dbf81789b3b32dac69.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/c458fd194916d76051619da7a9cc6245c3b631b2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/media/amien/5c93f088-c3d2-4770-80f8-d6f9c211e02f/home/amien/Documents/android projek/ProjectRaspi/app/build/intermediates/pre-dexed/debug/classes_f1e74537b0e7ed1857a29ed41736ada51ecd1e31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/amien/5c93f088-c3d2-4770-80f8-d6f9c211e02f/home/amien/Documents/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/media/amien/5c93f088-c3d2-4770-80f8-d6f9c211e02f/home/amien/Documents/android projek/ProjectRaspi/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_c66a0de85999926812f001390534411346369961.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/media/amien/5c93f088-c3d2-4770-80f8-d6f9c211e02f/home/amien/Documents/android projek/ProjectRaspi/app/build/intermediates/pre-dexed/debug/picasso-2.5.2_f07471cc8daabba9b33b6c2492a169834e3c6749.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/5694704183b80772a885f7699d4acbae4666e8e2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/media/amien/5c93f088-c3d2-4770-80f8-d6f9c211e02f/home/amien/Documents/android projek/ProjectRaspi/app/build/intermediates/pre-dexed/debug/classes_2cb9767af7b5ce323b9a65e39339d4c1405646ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.0.2/f8d87f15b94b8d74e7ccf61d7eedb558811cdb30/converter-gson-2.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f8d87f15b94b8d74e7ccf61d7eedb558811cdb30">
+        <dex dex="/media/amien/5c93f088-c3d2-4770-80f8-d6f9c211e02f/home/amien/Documents/android projek/ProjectRaspi/app/build/intermediates/pre-dexed/debug/converter-gson-2.0.2_ec891edc466ee9ce2b2dcfb2db677489b4dcb45c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/cz.msebera.android/httpclient/4.3.6/526a9f794eab830eae4f23a62c572878b3f491ab/httpclient-4.3.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="526a9f794eab830eae4f23a62c572878b3f491ab">
+        <dex dex="/media/amien/5c93f088-c3d2-4770-80f8-d6f9c211e02f/home/amien/Documents/android projek/ProjectRaspi/app/build/intermediates/pre-dexed/debug/httpclient-4.3.6_dd88f8ffcf8cc2783fd36210a45fa54f6afbebeb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/media/amien/5c93f088-c3d2-4770-80f8-d6f9c211e02f/home/amien/Documents/android projek/ProjectRaspi/app/build/intermediates/pre-dexed/debug/okio-1.6.0_abbb6cf6565e5391600f42e794cd7651128fa41b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.2.0/f7873a2ebde246a45c2a8d6f3247108b4c88a879/okhttp-3.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="/media/amien/5c93f088-c3d2-4770-80f8-d6f9c211e02f/home/amien/Documents/android projek/ProjectRaspi/app/build/intermediates/pre-dexed/debug/okhttp-3.2.0_d53b7d6d76bbcf9705e09f0c004a03b62b558194.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/c8af4d9f5322324ee7b74759d6230ad5799afb6c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/media/amien/5c93f088-c3d2-4770-80f8-d6f9c211e02f/home/amien/Documents/android projek/ProjectRaspi/app/build/intermediates/pre-dexed/debug/classes_f67d0311c99cd737f49dfdb6cd57e0b51cb3af0e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/59caa9f1a9f5cb51c066964c19239fcb1af7520d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/media/amien/5c93f088-c3d2-4770-80f8-d6f9c211e02f/home/amien/Documents/android projek/ProjectRaspi/app/build/intermediates/pre-dexed/debug/classes_0b07652b26a816095ee8ba89a8213f438437adab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/a4667450f54fe070e52cb2e3d9e86fa425e67a77/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/media/amien/5c93f088-c3d2-4770-80f8-d6f9c211e02f/home/amien/Documents/android projek/ProjectRaspi/app/build/intermediates/pre-dexed/debug/classes_de4c61b8a620e92b2694ad0a17603611dc08aac1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/49f4508a9169f64fd0b3b697717d1fbb2f8d4efc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/media/amien/5c93f088-c3d2-4770-80f8-d6f9c211e02f/home/amien/Documents/android projek/ProjectRaspi/app/build/intermediates/pre-dexed/debug/classes_0fcf9c0e440665f31a79b19b8fb0aaab4acbd35a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.6.2/f1bc476cc167b18e66c297df599b2377131a8947/gson-2.6.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
+        <dex dex="/media/amien/5c93f088-c3d2-4770-80f8-d6f9c211e02f/home/amien/Documents/android projek/ProjectRaspi/app/build/intermediates/pre-dexed/debug/gson-2.6.2_ac06da6517732f9ef15c77cc395089280e3d4104.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/fa92891f27cfbfb4aab38fca49a5dcd8fc626385/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/media/amien/5c93f088-c3d2-4770-80f8-d6f9c211e02f/home/amien/Documents/android projek/ProjectRaspi/app/build/intermediates/pre-dexed/debug/classes_5408a93cf11c26fea48c90dd262d83595663968b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/bc13f85484200893e59387937d108f18197d4a0b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/media/amien/5c93f088-c3d2-4770-80f8-d6f9c211e02f/home/amien/Documents/android projek/ProjectRaspi/app/build/intermediates/pre-dexed/debug/classes_f27d4f9802a160a8bcb9c8d1ef43a213ec316ec9.jar" />
+    </item>
+
+</items>

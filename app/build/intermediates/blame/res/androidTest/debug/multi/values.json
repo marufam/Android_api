@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/media/amien/5c93f088-c3d2-4770-80f8-d6f9c211e02f/home/amien/Documents/android projek/ProjectRaspi/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "/root/.android/build-cache/8dbd47045c02e56885afe7cec18c37bdb450d8a7/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 45,
+                        "endOffset": 270
+                    }
+                }
+            }
+        ]
+    }
+]

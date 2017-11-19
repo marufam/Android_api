@@ -1,0 +1,22 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.raspi.amien.projectraspi.fragments.homefragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="JARVIS"
+            android:gravity="center_horizontal|center_vertical"
+            android:textSize="50dp"
+            android:background="#7f96ff"
+            android:textColor="#FFF"/>
+    </RelativeLayout>
+
+
+</FrameLayout>

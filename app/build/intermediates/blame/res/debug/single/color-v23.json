@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/media/amien/5c93f088-c3d2-4770-80f8-d6f9c211e02f/home/amien/Documents/android projek/ProjectRaspi/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/root/.android/build-cache/59caa9f1a9f5cb51c066964c19239fcb1af7520d/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/media/amien/5c93f088-c3d2-4770-80f8-d6f9c211e02f/home/amien/Documents/android projek/ProjectRaspi/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/root/.android/build-cache/59caa9f1a9f5cb51c066964c19239fcb1af7520d/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/media/amien/5c93f088-c3d2-4770-80f8-d6f9c211e02f/home/amien/Documents/android projek/ProjectRaspi/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/root/.android/build-cache/59caa9f1a9f5cb51c066964c19239fcb1af7520d/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/media/amien/5c93f088-c3d2-4770-80f8-d6f9c211e02f/home/amien/Documents/android projek/ProjectRaspi/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/root/.android/build-cache/59caa9f1a9f5cb51c066964c19239fcb1af7520d/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/media/amien/5c93f088-c3d2-4770-80f8-d6f9c211e02f/home/amien/Documents/android projek/ProjectRaspi/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/root/.android/build-cache/59caa9f1a9f5cb51c066964c19239fcb1af7520d/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/media/amien/5c93f088-c3d2-4770-80f8-d6f9c211e02f/home/amien/Documents/android projek/ProjectRaspi/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/root/.android/build-cache/59caa9f1a9f5cb51c066964c19239fcb1af7520d/output/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/media/amien/5c93f088-c3d2-4770-80f8-d6f9c211e02f/home/amien/Documents/android projek/ProjectRaspi/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/root/.android/build-cache/59caa9f1a9f5cb51c066964c19239fcb1af7520d/output/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/media/amien/5c93f088-c3d2-4770-80f8-d6f9c211e02f/home/amien/Documents/android projek/ProjectRaspi/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/root/.android/build-cache/59caa9f1a9f5cb51c066964c19239fcb1af7520d/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/media/amien/5c93f088-c3d2-4770-80f8-d6f9c211e02f/home/amien/Documents/android projek/ProjectRaspi/app/build/intermediates/res/merged/debug/color-v23/design_tint_password_toggle.xml",
+        "source": "/root/.android/build-cache/0161951ca80b2f9457592a10fef8b1d45dc23359/output/res/color-v23/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/media/amien/5c93f088-c3d2-4770-80f8-d6f9c211e02f/home/amien/Documents/android projek/ProjectRaspi/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/root/.android/build-cache/59caa9f1a9f5cb51c066964c19239fcb1af7520d/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/media/amien/5c93f088-c3d2-4770-80f8-d6f9c211e02f/home/amien/Documents/android projek/ProjectRaspi/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/root/.android/build-cache/59caa9f1a9f5cb51c066964c19239fcb1af7520d/output/res/color-v23/abc_tint_edittext.xml"
+    }
+]

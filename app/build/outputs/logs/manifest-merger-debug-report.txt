@@ -1,0 +1,135 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /media/amien/5c93f088-c3d2-4770-80f8-d6f9c211e02f/home/amien/Documents/android projek/ProjectRaspi/app/src/main/AndroidManifest.xml:2:1-36:12
+	package
+		ADDED from /media/amien/5c93f088-c3d2-4770-80f8-d6f9c211e02f/home/amien/Documents/android projek/ProjectRaspi/app/src/main/AndroidManifest.xml:3:5-43
+		INJECTED from /media/amien/5c93f088-c3d2-4770-80f8-d6f9c211e02f/home/amien/Documents/android projek/ProjectRaspi/app/src/main/AndroidManifest.xml
+		INJECTED from /media/amien/5c93f088-c3d2-4770-80f8-d6f9c211e02f/home/amien/Documents/android projek/ProjectRaspi/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /media/amien/5c93f088-c3d2-4770-80f8-d6f9c211e02f/home/amien/Documents/android projek/ProjectRaspi/app/src/main/AndroidManifest.xml
+		INJECTED from /media/amien/5c93f088-c3d2-4770-80f8-d6f9c211e02f/home/amien/Documents/android projek/ProjectRaspi/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /media/amien/5c93f088-c3d2-4770-80f8-d6f9c211e02f/home/amien/Documents/android projek/ProjectRaspi/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /media/amien/5c93f088-c3d2-4770-80f8-d6f9c211e02f/home/amien/Documents/android projek/ProjectRaspi/app/src/main/AndroidManifest.xml
+		INJECTED from /media/amien/5c93f088-c3d2-4770-80f8-d6f9c211e02f/home/amien/Documents/android projek/ProjectRaspi/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /media/amien/5c93f088-c3d2-4770-80f8-d6f9c211e02f/home/amien/Documents/android projek/ProjectRaspi/app/src/main/AndroidManifest.xml:4:5-81
+	android:name
+		ADDED from /media/amien/5c93f088-c3d2-4770-80f8-d6f9c211e02f/home/amien/Documents/android projek/ProjectRaspi/app/src/main/AndroidManifest.xml:4:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /media/amien/5c93f088-c3d2-4770-80f8-d6f9c211e02f/home/amien/Documents/android projek/ProjectRaspi/app/src/main/AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from /media/amien/5c93f088-c3d2-4770-80f8-d6f9c211e02f/home/amien/Documents/android projek/ProjectRaspi/app/src/main/AndroidManifest.xml:5:22-76
+uses-permission#android.permission.INTERNET
+ADDED from /media/amien/5c93f088-c3d2-4770-80f8-d6f9c211e02f/home/amien/Documents/android projek/ProjectRaspi/app/src/main/AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from /media/amien/5c93f088-c3d2-4770-80f8-d6f9c211e02f/home/amien/Documents/android projek/ProjectRaspi/app/src/main/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /media/amien/5c93f088-c3d2-4770-80f8-d6f9c211e02f/home/amien/Documents/android projek/ProjectRaspi/app/src/main/AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from /media/amien/5c93f088-c3d2-4770-80f8-d6f9c211e02f/home/amien/Documents/android projek/ProjectRaspi/app/src/main/AndroidManifest.xml:7:22-76
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from /media/amien/5c93f088-c3d2-4770-80f8-d6f9c211e02f/home/amien/Documents/android projek/ProjectRaspi/app/src/main/AndroidManifest.xml:10:5-71
+	android:name
+		ADDED from /media/amien/5c93f088-c3d2-4770-80f8-d6f9c211e02f/home/amien/Documents/android projek/ProjectRaspi/app/src/main/AndroidManifest.xml:10:22-68
+uses-permission#android.permission.READ_PROFILE
+ADDED from /media/amien/5c93f088-c3d2-4770-80f8-d6f9c211e02f/home/amien/Documents/android projek/ProjectRaspi/app/src/main/AndroidManifest.xml:11:5-71
+	android:name
+		ADDED from /media/amien/5c93f088-c3d2-4770-80f8-d6f9c211e02f/home/amien/Documents/android projek/ProjectRaspi/app/src/main/AndroidManifest.xml:11:22-68
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /media/amien/5c93f088-c3d2-4770-80f8-d6f9c211e02f/home/amien/Documents/android projek/ProjectRaspi/app/src/main/AndroidManifest.xml:12:5-72
+	android:name
+		ADDED from /media/amien/5c93f088-c3d2-4770-80f8-d6f9c211e02f/home/amien/Documents/android projek/ProjectRaspi/app/src/main/AndroidManifest.xml:12:22-69
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /media/amien/5c93f088-c3d2-4770-80f8-d6f9c211e02f/home/amien/Documents/android projek/ProjectRaspi/app/src/main/AndroidManifest.xml:15:5-80
+	android:name
+		ADDED from /media/amien/5c93f088-c3d2-4770-80f8-d6f9c211e02f/home/amien/Documents/android projek/ProjectRaspi/app/src/main/AndroidManifest.xml:15:22-77
+uses-permission#android.permission.VIBRATE
+ADDED from /media/amien/5c93f088-c3d2-4770-80f8-d6f9c211e02f/home/amien/Documents/android projek/ProjectRaspi/app/src/main/AndroidManifest.xml:16:5-65
+	android:name
+		ADDED from /media/amien/5c93f088-c3d2-4770-80f8-d6f9c211e02f/home/amien/Documents/android projek/ProjectRaspi/app/src/main/AndroidManifest.xml:16:22-63
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /media/amien/5c93f088-c3d2-4770-80f8-d6f9c211e02f/home/amien/Documents/android projek/ProjectRaspi/app/src/main/AndroidManifest.xml:18:5-71
+	android:name
+		ADDED from /media/amien/5c93f088-c3d2-4770-80f8-d6f9c211e02f/home/amien/Documents/android projek/ProjectRaspi/app/src/main/AndroidManifest.xml:18:22-68
+application
+ADDED from /media/amien/5c93f088-c3d2-4770-80f8-d6f9c211e02f/home/amien/Documents/android projek/ProjectRaspi/app/src/main/AndroidManifest.xml:20:5-34:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /root/.android/build-cache/c458fd194916d76051619da7a9cc6245c3b631b2/output/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:25.3.1] /root/.android/build-cache/0161951ca80b2f9457592a10fef8b1d45dc23359/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /root/.android/build-cache/59caa9f1a9f5cb51c066964c19239fcb1af7520d/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /root/.android/build-cache/c8af4d9f5322324ee7b74759d6230ad5799afb6c/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /root/.android/build-cache/15cba95f43fccd871ae4749e931f10c8c0af9380/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] /root/.android/build-cache/dcc65d746b49d37090f87df1d2b80e87e515c392/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /root/.android/build-cache/49f4508a9169f64fd0b3b697717d1fbb2f8d4efc/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /root/.android/build-cache/1302d292cac3e635379e1f351c19a3419d053932/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /root/.android/build-cache/712bf7c6e618a85068611ca236a74741ef150225/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /root/.android/build-cache/5694704183b80772a885f7699d4acbae4666e8e2/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /root/.android/build-cache/a4667450f54fe070e52cb2e3d9e86fa425e67a77/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /root/.android/build-cache/bc13f85484200893e59387937d108f18197d4a0b/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /media/amien/5c93f088-c3d2-4770-80f8-d6f9c211e02f/home/amien/Documents/android projek/ProjectRaspi/app/src/main/AndroidManifest.xml:23:9-41
+	android:supportsRtl
+		ADDED from /media/amien/5c93f088-c3d2-4770-80f8-d6f9c211e02f/home/amien/Documents/android projek/ProjectRaspi/app/src/main/AndroidManifest.xml:25:9-35
+	android:roundIcon
+		ADDED from /media/amien/5c93f088-c3d2-4770-80f8-d6f9c211e02f/home/amien/Documents/android projek/ProjectRaspi/app/src/main/AndroidManifest.xml:24:9-54
+	android:allowBackup
+		ADDED from /media/amien/5c93f088-c3d2-4770-80f8-d6f9c211e02f/home/amien/Documents/android projek/ProjectRaspi/app/src/main/AndroidManifest.xml:21:9-35
+	android:icon
+		ADDED from /media/amien/5c93f088-c3d2-4770-80f8-d6f9c211e02f/home/amien/Documents/android projek/ProjectRaspi/app/src/main/AndroidManifest.xml:22:9-43
+	android:theme
+		ADDED from /media/amien/5c93f088-c3d2-4770-80f8-d6f9c211e02f/home/amien/Documents/android projek/ProjectRaspi/app/src/main/AndroidManifest.xml:26:9-40
+activity#com.raspi.amien.projectraspi.MainActivity
+ADDED from /media/amien/5c93f088-c3d2-4770-80f8-d6f9c211e02f/home/amien/Documents/android projek/ProjectRaspi/app/src/main/AndroidManifest.xml:27:9-33:20
+	android:name
+		ADDED from /media/amien/5c93f088-c3d2-4770-80f8-d6f9c211e02f/home/amien/Documents/android projek/ProjectRaspi/app/src/main/AndroidManifest.xml:27:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /media/amien/5c93f088-c3d2-4770-80f8-d6f9c211e02f/home/amien/Documents/android projek/ProjectRaspi/app/src/main/AndroidManifest.xml:28:13-32:29
+action#android.intent.action.MAIN
+ADDED from /media/amien/5c93f088-c3d2-4770-80f8-d6f9c211e02f/home/amien/Documents/android projek/ProjectRaspi/app/src/main/AndroidManifest.xml:29:17-69
+	android:name
+		ADDED from /media/amien/5c93f088-c3d2-4770-80f8-d6f9c211e02f/home/amien/Documents/android projek/ProjectRaspi/app/src/main/AndroidManifest.xml:29:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /media/amien/5c93f088-c3d2-4770-80f8-d6f9c211e02f/home/amien/Documents/android projek/ProjectRaspi/app/src/main/AndroidManifest.xml:31:17-77
+	android:name
+		ADDED from /media/amien/5c93f088-c3d2-4770-80f8-d6f9c211e02f/home/amien/Documents/android projek/ProjectRaspi/app/src/main/AndroidManifest.xml:31:27-74
+uses-sdk
+INJECTED from /media/amien/5c93f088-c3d2-4770-80f8-d6f9c211e02f/home/amien/Documents/android projek/ProjectRaspi/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /root/.android/build-cache/c458fd194916d76051619da7a9cc6245c3b631b2/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:25.3.1] /root/.android/build-cache/0161951ca80b2f9457592a10fef8b1d45dc23359/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] /root/.android/build-cache/59caa9f1a9f5cb51c066964c19239fcb1af7520d/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /root/.android/build-cache/c8af4d9f5322324ee7b74759d6230ad5799afb6c/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /root/.android/build-cache/15cba95f43fccd871ae4749e931f10c8c0af9380/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /root/.android/build-cache/fa92891f27cfbfb4aab38fca49a5dcd8fc626385/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] /root/.android/build-cache/dcc65d746b49d37090f87df1d2b80e87e515c392/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] /root/.android/build-cache/49f4508a9169f64fd0b3b697717d1fbb2f8d4efc/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /root/.android/build-cache/1302d292cac3e635379e1f351c19a3419d053932/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /root/.android/build-cache/712bf7c6e618a85068611ca236a74741ef150225/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /root/.android/build-cache/5694704183b80772a885f7699d4acbae4666e8e2/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /root/.android/build-cache/a4667450f54fe070e52cb2e3d9e86fa425e67a77/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] /root/.android/build-cache/bc13f85484200893e59387937d108f18197d4a0b/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] /root/.android/build-cache/0161951ca80b2f9457592a10fef8b1d45dc23359/output/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /media/amien/5c93f088-c3d2-4770-80f8-d6f9c211e02f/home/amien/Documents/android projek/ProjectRaspi/app/src/main/AndroidManifest.xml
+		INJECTED from /media/amien/5c93f088-c3d2-4770-80f8-d6f9c211e02f/home/amien/Documents/android projek/ProjectRaspi/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /media/amien/5c93f088-c3d2-4770-80f8-d6f9c211e02f/home/amien/Documents/android projek/ProjectRaspi/app/src/main/AndroidManifest.xml
+		INJECTED from /media/amien/5c93f088-c3d2-4770-80f8-d6f9c211e02f/home/amien/Documents/android projek/ProjectRaspi/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] /root/.android/build-cache/0161951ca80b2f9457592a10fef8b1d45dc23359/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] /root/.android/build-cache/59caa9f1a9f5cb51c066964c19239fcb1af7520d/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /root/.android/build-cache/c8af4d9f5322324ee7b74759d6230ad5799afb6c/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /root/.android/build-cache/15cba95f43fccd871ae4749e931f10c8c0af9380/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /root/.android/build-cache/fa92891f27cfbfb4aab38fca49a5dcd8fc626385/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] /root/.android/build-cache/dcc65d746b49d37090f87df1d2b80e87e515c392/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] /root/.android/build-cache/49f4508a9169f64fd0b3b697717d1fbb2f8d4efc/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /root/.android/build-cache/1302d292cac3e635379e1f351c19a3419d053932/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /root/.android/build-cache/712bf7c6e618a85068611ca236a74741ef150225/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /root/.android/build-cache/5694704183b80772a885f7699d4acbae4666e8e2/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /root/.android/build-cache/a4667450f54fe070e52cb2e3d9e86fa425e67a77/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /root/.android/build-cache/bc13f85484200893e59387937d108f18197d4a0b/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] /root/.android/build-cache/0161951ca80b2f9457592a10fef8b1d45dc23359/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] /root/.android/build-cache/0161951ca80b2f9457592a10fef8b1d45dc23359/output/AndroidManifest.xml:26:9-47

@@ -1,0 +1,4 @@
+#Sun Nov 19 14:26:27 WIB 2017
+base.0=/media/amien/5c93f088-c3d2-4770-80f8-d6f9c211e02f/home/amien/Documents/android projek/ProjectRaspi/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/media/amien/5c93f088-c3d2-4770-80f8-d6f9c211e02f/home/amien/Documents/android projek/ProjectRaspi/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

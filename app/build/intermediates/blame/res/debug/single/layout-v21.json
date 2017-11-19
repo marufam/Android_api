@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/media/amien/5c93f088-c3d2-4770-80f8-d6f9c211e02f/home/amien/Documents/android projek/ProjectRaspi/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/root/.android/build-cache/59caa9f1a9f5cb51c066964c19239fcb1af7520d/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/media/amien/5c93f088-c3d2-4770-80f8-d6f9c211e02f/home/amien/Documents/android projek/ProjectRaspi/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/root/.android/build-cache/59caa9f1a9f5cb51c066964c19239fcb1af7520d/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/media/amien/5c93f088-c3d2-4770-80f8-d6f9c211e02f/home/amien/Documents/android projek/ProjectRaspi/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/root/.android/build-cache/59caa9f1a9f5cb51c066964c19239fcb1af7520d/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/media/amien/5c93f088-c3d2-4770-80f8-d6f9c211e02f/home/amien/Documents/android projek/ProjectRaspi/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/root/.android/build-cache/59caa9f1a9f5cb51c066964c19239fcb1af7520d/output/res/layout-v21/notification_template_icon_group.xml"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/media/amien/5c93f088-c3d2-4770-80f8-d6f9c211e02f/home/amien/Documents/android projek/ProjectRaspi/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_tab_contacts.png",
+        "source": "/media/amien/5c93f088-c3d2-4770-80f8-d6f9c211e02f/home/amien/Documents/android projek/ProjectRaspi/app/src/main/res/drawable-hdpi/ic_tab_contacts.png"
+    },
+    {
+        "merged": "/media/amien/5c93f088-c3d2-4770-80f8-d6f9c211e02f/home/amien/Documents/android projek/ProjectRaspi/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_tab_favourite.png",
+        "source": "/media/amien/5c93f088-c3d2-4770-80f8-d6f9c211e02f/home/amien/Documents/android projek/ProjectRaspi/app/src/main/res/drawable-hdpi/ic_tab_favourite.png"
+    },
+    {
+        "merged": "/media/amien/5c93f088-c3d2-4770-80f8-d6f9c211e02f/home/amien/Documents/android projek/ProjectRaspi/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_tab_call.png",
+        "source": "/media/amien/5c93f088-c3d2-4770-80f8-d6f9c211e02f/home/amien/Documents/android projek/ProjectRaspi/app/src/main/res/drawable-hdpi/ic_tab_call.png"
+    }
+]
